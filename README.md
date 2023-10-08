@@ -1,6 +1,6 @@
 # twitter_clone
 
-Clone de Twitter en flutter qui renvoit 10 "tweets" aléatoires qui sont des citations de Kaamelott
+Clone de Twitter en Flutter/Dart qui renvoit 10 "tweets" aléatoires qui sont des citations de Kaamelott
 
 
 ## Getting Started
