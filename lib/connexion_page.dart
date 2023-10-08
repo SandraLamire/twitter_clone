@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
-import 'package:twitter_clone_api/classes/class_from_connexion.dart';
+import 'package:twitter_clone_api/classes/class_form_connexion.dart';
 
 
 class ConnexionPage extends StatelessWidget {
