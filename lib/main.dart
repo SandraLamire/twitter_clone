@@ -5,11 +5,11 @@ import 'package:twitter_clone_api/services/router_config.dart';
 // Dans la console : flutter pub add http
 
 void main() {
-  runApp(MyApp());
+  runApp(const MyApp());
 }
 
 class MyApp extends StatelessWidget {
-  MyApp({super.key});
+  const MyApp({super.key});
 
   // This widget is the root of the application.
   @override
